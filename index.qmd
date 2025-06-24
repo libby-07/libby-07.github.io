@@ -9,7 +9,7 @@ about:
       icon: envelope-fill
     - text: GitHub
       icon: github
-      url: "https://github.com/libby07"
+      url: "https://github.com/libby-07"
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/Elizabeth-Kula/"
