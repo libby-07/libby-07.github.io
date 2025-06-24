@@ -1,0 +1,26 @@
+---
+title: "Libby Kula"
+image: "Libby_Kula.jpg"
+about:
+  template: trestles
+  links:
+    - text: 'kula0049@umn.edu'
+      url: "mailto:kula0049@umn.edu"
+      icon: envelope-fill
+    - text: GitHub
+      icon: github
+      url: "https://github.com/libby07"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/Elizabeth-Kula/"
+    - text: Applied Economics Homepage
+      icon: buildings-fill
+      url: "https://apec.umn.edu/"
+    - text: NatCap TEEMs Homepage
+      icon: globe-americas
+      url: "https://natcapteems.umn.edu/"
+---
+
+My name is Elizabeth (Libby) Kula. I’m a doctoral candidate in the Department of Applied Economics at the University of Minnesota. My studies were concentrated in the environmental/natural resource economics and policy fields. I am currently working on my dissertation while serving in an ABD Assistant Professor position at St. Catherine University’s Economics & Political Science Department. 
+
+My research interests include ecosystem services, natural capital accounting, and equity. In my dissertation, I would like to leverage household survey data and geospatial environmental data to estimate the distribution of ecosystem services across space and socio-economic characteristics over time and in response to policy changes.
