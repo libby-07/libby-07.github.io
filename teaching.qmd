@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+format: html
+---
+
+# Courses Taught
+
+- **ECON 1090: Statistical Analysis for Decision-making**  
+  - [Spring 2025 In-person Syllabus (PDF)](syllabi/Syllabus_D01_ECON_1090_Spring2025.pdf) 
+  - [Spring 2025 Online/Some Synchronous Syllabus (PDF)](syllabi/Syllabus_C01_ECON_1090_Spring2025.pdf) 
+  - [Fall 2024 Online/Asynchronous Syllabus (PDF)](syllabi/Syllabus_C01_ECON_1090_F2024.pdf)
+
+- **ECON 2012/CARR 2010: Personal Financial Fitness**  
+  [Spring 2025 Syllabus (PDF)](syllabi/Syllabus_Personal_Finance_Spring2025.docx.pdf.pdf)
+
+- **CORE 1000W: The Reflective Woman**  
+  [Fall 2024 Syllabus (PDF)](syllabi/Updated_TRW_Syllabus_F2024.docx.pdf)
+
+# Courses Graduate TA'd 
+
+- **APEC 1101 & 1101H: Principles of Microeconomics**  
+- **APEC 8001-2: Microeconomics I & II**  
+

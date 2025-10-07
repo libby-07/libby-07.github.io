@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  # pre-render:
+  # - powershell -ExecutionPolicy Bypass -File convert_syllabi.ps1
 
 
 website:
@@ -9,6 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: cv.qmd
         text: CV
 
