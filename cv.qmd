@@ -3,4 +3,4 @@ title: "Curriculum Vitae"
 format: html
 ---
 
-<embed src="CV Sept 2025.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="CV Oct 2025 research.pdf" width="100%" height="600px" type="application/pdf">
