@@ -3,9 +3,9 @@ title: "Research"
 format: html
 ---
 # Publications
-** Krafft, C., West, K., McFarlane, A., <b>Kula, E.<b>, Abdinoor, F., Weyrens-Welch, M., & Drain, K. (2023). Virtually Nonexistent: Gender and Racial Representation in Online K-12 Economics Lessons. <em>Eastern Economic Journal<em>, 49(1), 78-87. <a>10.1057/s41302-022-00231-0<a>
+** Krafft, C., West, K., McFarlane, A., <b>Kula, E.</b>, Abdinoor, F., Weyrens-Welch, M., & Drain, K. (2023). Virtually Nonexistent: Gender and Racial Representation in Online K-12 Economics Lessons. <em>Eastern Economic Journal</em>, 49(1), 78-87. <a>10.1057/s41302-022-00231-0</a>
 
-**Krafft, C., <b>Kula, E.<b>, & Sieverding, M. (2021). An investigation of Jordan’s fertility stall and resumed decline. <em>Demographic Research<em>, 45, 605-652. <a>https://www.jstor.org/stable/48640790<a>
+**Krafft, C., <b>Kula, E.</b>, & Sieverding, M. (2021). An investigation of Jordan’s fertility stall and resumed decline. <em>Demographic Research</em>, 45, 605-652. <a>https://www.jstor.org/stable/48640790</a>
 
 # Works in Progress
 
