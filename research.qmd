@@ -2,6 +2,9 @@
 title: "Research"
 format: html
 ---
+# Job Market Paper 
+<a href="https://drive.google.com/file/d/1gGy4kP8DSyf1ifrqeqWo_yvvTghXJtmC/view?usp=sharing">Link to the latest version</a>
+
 # Publications
 Krafft, C., West, K., McFarlane, A., <b>Kula, E.</b>, Abdinoor, F., Weyrens-Welch, M., & Drain, K. (2023). Virtually Nonexistent: Gender and Racial Representation in Online K-12 Economics Lessons. <em>Eastern Economic Journal</em>, 49(1), 78-87. <a href="https://doi.org/10.1057/s41302-022-00231-0">10.1057/s41302-022-00231-0</a>
 
@@ -18,6 +21,3 @@ metropolitan areas from 2001 to 2021.”**
  Abstract: Using Urban Integrated Valuation of Ecosystem Services and Tradeoffs (Urban InVEST) results for the ecosystem services of urban cooling and urban nature access for the years 2001, 2011, and 2021 for 380 metropolitan areas in the contiguous U.S., I analyze the distribution of these ecosystem services,
  a.k.a. ecosystem services inequality (ESI), across various socioeconomic variables. I find significant inequities in the provision of ecosystem services across socioeconomic status, race and ethnic minority status, household characteristics, and housing type and transportation. In some cases, the amount of energy savings from urban cooling experienced by disadvantaged communities is roughly half that of the advantaged metropolitan population. For 2021, Census tracts with a relatively high proportion of people of color have less
  than 1/4 of the urban nature supply per capita of relatively white tracts. I find inequities in ecosystem services provision typically persist, and in some cases worsen, over the 20-year period of study.
-
-# Job Market Paper 
-<a href="https://drive.google.com/file/d/1gGy4kP8DSyf1ifrqeqWo_yvvTghXJtmC/view?usp=sharing">Link to the latest version</a>
