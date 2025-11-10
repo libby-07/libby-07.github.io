@@ -19,5 +19,5 @@ metropolitan areas from 2001 to 2021.”**
  a.k.a. ecosystem services inequality (ESI), across various socioeconomic variables. I find significant inequities in the provision of ecosystem services across socioeconomic status, race and ethnic minority status, household characteristics, and housing type and transportation. In some cases, the amount of energy savings from urban cooling experienced by disadvantaged communities is roughly half that of the advantaged metropolitan population. For 2021, Census tracts with a relatively high proportion of people of color have less
  than 1/4 of the urban nature supply per capita of relatively white tracts. I find inequities in ecosystem services provision typically persist, and in some cases worsen, over the 20-year period of study.
 
- # Job Market Paper 
+# Job Market Paper 
 <a href="https://drive.google.com/file/d/1gGy4kP8DSyf1ifrqeqWo_yvvTghXJtmC/view?usp=sharing">Link to the latest version</a>
