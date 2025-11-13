@@ -3,7 +3,7 @@ title: "Research"
 format: html
 ---
 # Job Market Paper 
-<a href="https://drive.google.com/file/d/1gGy4kP8DSyf1ifrqeqWo_yvvTghXJtmC/view?usp=sharing">Link to the latest version</a>
+<a href="https://drive.google.com/file/d/1bbRKpUyY87J_UY4ATX9lAND1VmX_941b/view?usp=sharing">Link to the latest version</a>
 
 # Publications
 Krafft, C., West, K., McFarlane, A., <b>Kula, E.</b>, Abdinoor, F., Weyrens-Welch, M., & Drain, K. (2023). Virtually Nonexistent: Gender and Racial Representation in Online K-12 Economics Lessons. <em>Eastern Economic Journal</em>, 49(1), 78-87. <a href="https://doi.org/10.1057/s41302-022-00231-0">10.1057/s41302-022-00231-0</a>
